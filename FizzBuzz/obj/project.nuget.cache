@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b8MWUptNEkDDEJPK+NkmGKenSUDjftBo72Chkc/gBamCgRKdCu4TazHS+jMDMOy3upUhBEQUNdziBDH7oCgDvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\welldone\\Desktop\\Alireza\\FizzBuzz\\FizzBuzz\\FizzBuzzGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\welldone\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
